@@ -2,13 +2,6 @@
   font-family: bebas-neue;
   src: url("../assets/fonts/BebasNeue.otf");
 }
-/*
-  COLORS
-  sa yellow: rgb(236, 141, 35);
-  sa pink: rgb(239, 90, 109);
-  sa teal: rgb(1, 163, 165);
-*/
-
 
 /*
   Main Stylesheet
@@ -62,7 +55,7 @@ body {
 
 .nav__links {
   font-size: 1.6rem;
-  position: absolute;
+  position: relative;
   top: 1rem;
 }
 
