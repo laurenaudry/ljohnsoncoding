@@ -90,11 +90,11 @@ body {
 */
 
 .main__banner {
-  background-image: url("http://www.thesanantonioriverwalk.com/images/site/home_night_banner.jpg");
-  background-size: cover;
+  background-image: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS05I6JE_PY02s4b2gJbBRC_giQOyKOgmxGRXJCMWl3WC825zVj");
+  background-size: contain;
   border-bottom: .3rem solid rgb(1, 163, 165);
   border-top: .3rem solid rgb(1, 163, 165);
-  height: 40rem;
+  height: 30rem;
   position: relative;
 }
 
@@ -231,7 +231,7 @@ body {
 }
 
 .footer {
-  background-color: rgb(180, 180, 180);
+  background-color: rgb(153, 239, 255);
   height: 21.5rem;
   padding: 2rem 3rem;
   width: 100vw;
@@ -252,8 +252,8 @@ body {
 }
 
 .footer__aboutText {
-  font-size: 1.2rem;
-  text-align: justify;
+  font-size: 2.2rem;
+  text-align: left;
   width: 80%;
 }
 
